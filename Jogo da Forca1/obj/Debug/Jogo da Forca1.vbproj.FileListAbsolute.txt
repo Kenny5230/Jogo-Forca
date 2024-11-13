@@ -1,0 +1,13 @@
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\bin\Debug\Jogo da Forca1.exe.config
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\bin\Debug\Jogo da Forca1.exe
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\bin\Debug\Jogo da Forca1.pdb
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\bin\Debug\Jogo da Forca1.xml
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\obj\Debug\Jogo da Forca1.vbproj.AssemblyReference.cache
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\obj\Debug\Jogo_da_Forca1.Form1.resources
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\obj\Debug\Jogo_da_Forca1.Resources.resources
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\obj\Debug\Jogo da Forca1.vbproj.GenerateResource.cache
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\obj\Debug\Jogo da Forca1.vbproj.CoreCompileInputs.cache
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\obj\Debug\Jogo da Forca1.exe
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\obj\Debug\Jogo da Forca1.xml
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\obj\Debug\Jogo da Forca1.pdb
+C:\Users\kenny\source\repos\Jogo da Forca1\Jogo da Forca1\obj\Debug\Jogo_da_Forca1.FormEscolherPalavra.resources
